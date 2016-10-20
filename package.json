@@ -1,0 +1,25 @@
+{
+  "name": "angular_menu_app",
+  "version": "1.0.0",
+  "description": "Angular menu application for ordering, order processing and purchasing.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snags/ag2-menu-systm.git"
+  },
+  "keywords": [
+    "angularjs2",
+    "menu",
+    "app",
+    "spa"
+  ],
+  "author": "Matt Sinagra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snags/ag2-menu-systm/issues"
+  },
+  "homepage": "https://github.com/Snags/ag2-menu-systm#readme"
+}
